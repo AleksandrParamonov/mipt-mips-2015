@@ -2,8 +2,8 @@
 * types.h - Implementation of types that are independent of host system
 * The types are used in algorithms affected by size of a variable
 *
-* @author Alexander Titov <alexander.igorevich.titov@gmail.com>
-* Copyright 2012 uArchSim iLab project
+* @author Aleksandr Paramonov <aleksandr.paramonov@phystech.edu>
+* Copyright 2016 MIPT-MIPS
 */
 
 // protection from multi-include

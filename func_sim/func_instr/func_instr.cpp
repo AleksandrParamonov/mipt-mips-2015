@@ -1,7 +1,7 @@
 /*
  * func_instr.cpp - instruction parser for mips
- * @author Pavel Kryukov pavel.kryukov@phystech.edu
- * Copyright 2015 MIPT-MIPS
+ * @author Aleksandr Paramonov <aleksandr.paramonov@phystech.edu>
+ * Copyright 2016 MIPT-MIPS
  */
 
 

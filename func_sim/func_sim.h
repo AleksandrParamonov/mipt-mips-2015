@@ -1,3 +1,8 @@
+/**
+* func_sim.h
+* @author Aleksandr Paramonov <aleksandr.paramonov@phystech.edu>
+* Copyright 2016 MIPT-MIPS
+*/
 #ifndef FUNCSIM_H 
 #define FUNCSIM_H
 
