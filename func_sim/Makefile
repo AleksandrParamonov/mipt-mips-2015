@@ -7,6 +7,8 @@
 # specifying relative path to the TRUNK
 TRUNK= ../
 
+CXXFLAGS=-std=c++11 
+
 # paths to look for headers
 vpath %.h $(TRUNK)/func_sim/elf_parser/
 vpath %.h $(TRUNK)/func_sim/func_instr/
