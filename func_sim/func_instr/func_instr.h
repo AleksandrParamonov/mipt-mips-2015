@@ -22,6 +22,12 @@ class FuncInstr
         FuncInstr( uint32 bytes);
         std::string Dump( std::string indent = " ") const;
 
+        uint32 v_src1;
+        uint32 v_src2;
+        uint32 v_dst;
+        uint32 mem_addr;
+        uint32 new_PC;
+
     private:
         enum Format
         {
